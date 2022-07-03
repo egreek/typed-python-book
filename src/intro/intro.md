@@ -13,7 +13,7 @@
 
 И это — отличная цель, к которой мы вместе будем двигаться на протяжении ближайших часов!
 
-Этот материал есть также в видео формате на моём YouTube — [«Диджитализируй!»](https://www.youtube.com/watch?v=dKxiHlZvULQ).
+Этот материал есть также в видео-формате на моём YouTube — [«Диджитализируй!»](https://www.youtube.com/watch?v=dKxiHlZvULQ).
 
 <div style="text-align: center; max-width: 100%;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/dKxiHlZvULQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%;"></iframe>
@@ -45,7 +45,7 @@
 - `Callable`,
 - `TypeVar`, `TypeAlias` и др.
 
-Напишем приложение погоды, используя эти типы и поясняя по ходу некоторые архитектурные моменты выбора того или иного подхода. [Смотри видео версию этой книги на YouTube](https://www.youtube.com/channel/UC9MK8SybZcrHR3CUV4NMy2g) и читай обязательно до конца.
+Напишем приложение погоды, используя эти типы, и поясняя по ходу некоторые архитектурные моменты выбора того или иного подхода. [Смотри видео-версию этой книги на YouTube](https://www.youtube.com/channel/UC9MK8SybZcrHR3CUV4NMy2g) и читай обязательно до конца.
 
 Обещаю, что после проработки этого материала твой код больше никогда не будет прежним. Буквально — драматическое улучшение кода гарантировано. Как пишут в англоязычных книжках, *dramatic improvement*!
 
